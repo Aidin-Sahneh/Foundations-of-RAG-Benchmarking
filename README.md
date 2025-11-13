@@ -1,5 +1,5 @@
 
-# R2L Lab Onboarding Quiz - Part 2: Implementation Challenge
+# R2L Lab Onboarding Quiz: Implementation Challenge
 
 This project implements and evaluates two fundamental information retrieval systems, a sparse retriever (BM25) and a dense retriever (Sentence-BERT + FAISS), as part of the R2L Lab Onboarding Quiz. The systems are benchmarked on the `SciFact` dataset from the BEIR library.
 
