@@ -1,0 +1,6 @@
+beir
+rank_bm25
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
