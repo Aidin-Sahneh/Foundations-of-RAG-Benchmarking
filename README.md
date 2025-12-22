@@ -31,7 +31,7 @@ The repository is structured as follows:
 
 ├── dense_retrieval.py # Script to run and evaluate S-BERT + FAISS retrieval
 
-├── evaluation.py # The evaluation script provided by R2L Lab
+├── evaluation.py # The evaluation script
 
 ├── requirements.txt # Project dependencies
 
@@ -207,7 +207,7 @@ In summary, the dense retriever offers a significant boost in retrieval quality 
 ---
 ## Submission Deliverables
 
-The final submission package contains both parts of the quiz:
+The final package contains both parts of the quiz:
 
 * **Part 1: Literature Review** is available as a PDF document inside the **`report/`** directory.
 * **Part 2: Implementation Challenge** consists of the Python scripts, `requirements.txt`, and this `README.md` file.
