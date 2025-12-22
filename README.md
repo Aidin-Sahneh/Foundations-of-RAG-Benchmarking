@@ -205,7 +205,7 @@ While the dense retriever provided superior results, it comes with different per
 In summary, the dense retriever offers a significant boost in retrieval quality by understanding semantics, but this comes at the cost of a much more expensive and resource-intensive indexing process.
 
 ---
-## Submission Deliverables
+## Final Package
 
 The final package contains both parts of the quiz:
 
